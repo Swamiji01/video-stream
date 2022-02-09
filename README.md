@@ -1,4 +1,4 @@
-<p align="center"><a href="https://t.me/VeezVideoBot"><img src="https://github.com/levina-lab/video-stream/raw/main/driver/veezlogo.png"></a></p>
+<p align="center"><a href="https://t.me/Raichu_video_stream_bot"><img src="https://github.com/levina-lab/video-stream/raw/main/driver/veezlogo.png"></a></p>
 <p align="center">
     <br><b>Video Stream is an Advanced Telegram Bot that's allow you to play Video & Music on Telegram Group Video Chat</b><br>
 </p>
@@ -18,7 +18,7 @@
 
 ## 🎭 Preview
 <p align="center">
-  <img src="https://telegra.ph/file/11e63eb2b59ad15a43a03.jpg">
+  <img src="https://te.legra.ph/file/db7a18d702437595cd9da.jpg">
 </p>
 
 ## ✨ Features
@@ -93,13 +93,10 @@ python3 main.py # run the bot.
 # continue the host with screen or anything else, thanks for reading.
 ```
 
-# Credits 💖
+# OWNER 💖
 
-- [Levina](https://github.com/levina-lab) ``Dev``
-- [Zxce3](https://github.com/Zxce3) ``Dev``
-- [tofikdn](https://github.com/tofikdn) ``Dev``
-- [Laky's](https://github.com/Laky-64) for [``py-tgcalls``](https://github.com/pytgcalls/pytgcalls)
-- [Dan](https://github.com/delivrance) for [``Pyrogram``](https://github.com/pyrogram)
+- [Levina](https://github.com/Raichu_xD) ``SWAMI``
+
 
 ### Support & Updates 🎑
-<a href="https://t.me/VeezSupportGroup"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/levinachannel"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/RAICHU_SPAM_SUPPORT"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/levinachannel"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
